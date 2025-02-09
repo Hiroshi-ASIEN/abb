@@ -1,0 +1,20 @@
+# Blender MTL File: 'cylinder.blend'
+# Material Count: 2
+
+newmtl blinn2SG
+illum 4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Tf 1.00 1.00 1.00
+map_Kd grass01.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+
+newmtl lambert2SG
+illum 4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Tf 1.00 1.00 1.00
+map_Kd Cultured_marble02.jpg
+Ni 1.00
+
